@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Atom官方博客</title>
   <id>http://atom-ls.github.io</id>
-  <updated>2017-04-20T13:09:12+08:00</updated>
+  <updated>2017-04-20T13:15:28+08:00</updated>
   <subtitle>工作，生活，阅读，运动，共享生命之精彩</subtitle>
   <link href="http://atom-ls.github.io"></link>
   <author>
@@ -14,7 +14,7 @@
     <content type="html">&lt;p&gt;在这里写一些内容，可以预览，所以就是这样&lt;/p&gt;&#xA;</content>
     <link href="http://atom-ls.github.io/test-for-blog.html"></link>
     <author>
-      <name>AtomL</name>
+      <name>atom-ls</name>
     </author>
   </entry>
   <entry>
@@ -24,7 +24,7 @@
     <content type="html">&lt;p&gt;纸小墨（InkPaper）是一个GO语言编写的开源静态博客构建工具，可以快速搭建博客网站。它无依赖跨平台，配置简单构建快速，注重简洁易用与更优雅的排版。&lt;/p&gt;&#xA;</content>
     <link href="http://atom-ls.github.io/ink-blog-tool.html"></link>
     <author>
-      <name>AtomL</name>
+      <name>atom-ls</name>
     </author>
   </entry>
 </feed>
