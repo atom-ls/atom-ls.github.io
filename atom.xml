@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Atom官方博客</title>
   <id>http://atom-ls.github.io</id>
-  <updated>2017-07-30T13:58:50+08:00</updated>
+  <updated>2017-07-30T19:30:33+08:00</updated>
   <subtitle>工作，生活，阅读，运动</subtitle>
   <link href="http://atom-ls.github.io"></link>
   <author>
@@ -10,9 +10,9 @@
   <entry>
     <title>Nodejs开发框架Express搭建及使用详细记录说明（一）</title>
     <updated>2017-07-30T08:00:00+08:00</updated>
-    <id>tag:atom-ls.github.io,2017-07-30:/misc/2017/07/30/express_part1.html</id>
+    <id>tag:atom-ls.github.io,2017-07-30:/express_part1.html</id>
     <content type="html">&lt;p&gt;超详细的Nodejs开发框架Express案例说明~&lt;/p&gt;&#xA;</content>
-    <link href="http://atom-ls.github.io/misc/2017/07/30/express_part1.html"></link>
+    <link href="http://atom-ls.github.io/express_part1.html"></link>
     <author>
       <name>atom-ls</name>
     </author>
